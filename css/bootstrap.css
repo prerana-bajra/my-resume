@@ -2887,7 +2887,7 @@ fieldset:disabled .btn {
 .btn-check:active + .btn-primary, .btn-primary:active, .btn-primary.active,
 .show > .btn-primary.dropdown-toggle {
   color: #000;
-  background-color: #f8e67e;
+  background-color: #58c5db;
   border-color: #82dafa;
 }
 
@@ -6390,7 +6390,7 @@ fieldset:disabled .btn {
 }
 
 .link-primary:hover, .link-primary:focus {
-  color: #f8e67e;
+  color: #58c5db;
 }
 
 .link-secondary {
